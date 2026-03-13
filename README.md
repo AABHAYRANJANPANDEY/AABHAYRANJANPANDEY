@@ -29,39 +29,42 @@
 
 ## 🚀 Projects
 
-### 🌐 Portfolio Website
-A personal portfolio website to showcase my skills and projects.
+<p align="center">
 
-Tech Used: HTML, CSS, JavaScript
+<a href="https://github.com/AABHAYRANJANPANDEY/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=portfolio&theme=tokyonight" />
+</a>
 
-### 🛒 E-commerce Frontend
-Responsive e-commerce UI with product listings and cart system.
+<a href="https://github.com/AABHAYRANJANPANDEY/ecommerce-frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=ecommerce-frontend&theme=tokyonight" />
+</a>
 
-Tech Used: HTML, CSS, React
+<a href="https://github.com/AABHAYRANJANPANDEY/calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=calculator&theme=tokyonight" />
+</a>
 
-### 🧮 Apple Style Calculator
-Modern calculator inspired by iOS design.
-
-Tech Used: HTML, CSS, JavaScript
+</p>
 
 
 ## 📜 Certifications
 
-🏅 Google Cloud Certification
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified-blue?style=for-the-badge&logo=googlecloud)
 
-🏅 Google Data Analytics Certificate
+![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-yellow?style=for-the-badge&logo=google)
 
-🏅 Google Cloud Facilitator Program
+![Cloud Facilitator](https://img.shields.io/badge/Google-Cloud%20Facilitator-orange?style=for-the-badge&logo=google)
 
-🏅 Fundamentals of Python & AI/ML (VITyarthi)
+![Python AI ML](https://img.shields.io/badge/Python-AI%2FML-green?style=for-the-badge&logo=python)
 
 
 ## 🏆 Achievements
 
-⭐ B.Tech Student at VIT Bhopal
+🥇 **9.67 GPA** in First Semester at VIT Bhopal  
 
-⭐ First Semester GPA: 9.67
+🚀 Built **multiple web development projects**
 
-⭐ Built multiple web development projects
+💻 Skilled in **Java, Python, C++, React, Node.js**
 
-⭐ Actively learning Data Structures & Algorithms
+📊 Completed **Google Data Analytics Certification**
+
+🌟 Actively practicing **Data Structures & Algorithms**
