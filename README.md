@@ -31,7 +31,7 @@
 
 <p align="center">
 
-<a href="https://github.com/AABHAYRANJANPANDEY/portfolio">
+<a href="https://github.com/AABHAYRANJANPANDEY/MyPortfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=MyPortfolio&theme=tokyonight" />
 </a>
 
