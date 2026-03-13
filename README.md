@@ -45,7 +45,6 @@
 
 </p>
 
-
 ## 📜 Certifications
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified-blue?style=for-the-badge&logo=googlecloud)
