@@ -30,3 +30,44 @@
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/AABHAYRANJANPANDEY/AABHAYRANJANPANDEY/blob/output/github-contribution-grid-snake.svg)
+
+
+
+## 🚀 Projects
+
+### 🌐 Portfolio Website
+A personal portfolio website to showcase my skills and projects.
+
+Tech Used: HTML, CSS, JavaScript
+
+### 🛒 E-commerce Frontend
+Responsive e-commerce UI with product listings and cart system.
+
+Tech Used: HTML, CSS, React
+
+### 🧮 Apple Style Calculator
+Modern calculator inspired by iOS design.
+
+Tech Used: HTML, CSS, JavaScript
+
+
+## 📜 Certifications
+
+🏅 Google Cloud Certification
+
+🏅 Google Data Analytics Certificate
+
+🏅 Google Cloud Facilitator Program
+
+🏅 Fundamentals of Python & AI/ML (VITyarthi)
+
+
+## 🏆 Achievements
+
+⭐ B.Tech Student at VIT Bhopal
+
+⭐ First Semester GPA: 9.67
+
+⭐ Built multiple web development projects
+
+⭐ Actively learning Data Structures & Algorithms
