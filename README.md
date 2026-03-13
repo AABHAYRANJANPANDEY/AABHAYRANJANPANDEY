@@ -24,7 +24,7 @@
 
 ## 📈 3D Contribution Graph
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/?username=AABHAYRANJANPANDEY&theme=rainbow)
 
 
 ## 🐍 Contribution Snake
