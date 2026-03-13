@@ -21,12 +21,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AABHAYRANJANPANDEY&layout=compact&theme=tokyonight)
 
-
-## 📈 3D Contribution Graph
-
-![](https://github-profile-3d-contrib.vercel.app/?username=AABHAYRANJANPANDEY&theme=rainbow)
-
-
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/AABHAYRANJANPANDEY/AABHAYRANJANPANDEY/blob/output/github-contribution-grid-snake.svg)
