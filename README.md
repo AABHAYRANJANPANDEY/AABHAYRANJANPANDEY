@@ -32,15 +32,15 @@
 <p align="center">
 
 <a href="https://github.com/AABHAYRANJANPANDEY/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=portfolio&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=Myportfolio&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/AABHAYRANJANPANDEY/ecommerce-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=ecommerce-frontend&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=Landing_Page&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/AABHAYRANJANPANDEY/calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=calculator&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=Campus-Course-Records-Manager&theme=tokyonight" />
 </a>
 
 </p>
