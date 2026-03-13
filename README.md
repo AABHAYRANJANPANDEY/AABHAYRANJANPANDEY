@@ -57,6 +57,11 @@
 ![Python AI ML](https://img.shields.io/badge/Python-AI%2FML-green?style=for-the-badge&logo=python)
 
 
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AABHAYRANJANPANDEY&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## 🏆 Achievements
 
 🥇 **9.67 GPA** in First Semester at VIT Bhopal  
