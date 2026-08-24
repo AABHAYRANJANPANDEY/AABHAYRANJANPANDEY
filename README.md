@@ -202,50 +202,18 @@
 
 ## 🐍 Contribution Snake
 
+
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AABHAYRANJANPANDEY/AABHAYRANJANPANDEY/gh-pages/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/AABHAYRANJANPANDEY/AABHAYRANJANPANDEY/gh-pages/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <sub>
-    Turning commits into progress. One contribution at a time. ⚡
-  </sub>
+  <strong>⚡ BUILD → LEARN → CONTRIBUTE → REPEAT</strong>
 </p>
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AABHAYRANJANPANDEY&theme=tokyonight)
-
-## 🏆 Badges
-
-![GitHub stars](https://img.shields.io/github/stars/AABHAYRANJANPANDEY/Data-Structures-and-Algorithms)
-![GitHub forks](https://img.shields.io/github/forks/AABHAYRANJANPANDEY/Data-Structures-and-Algorithms)
-![GitHub last commit](https://img.shields.io/github/last-commit/AABHAYRANJANPANDEY/Data-Structures-and-Algorithms)
-![GitHub repo size](https://img.shields.io/github/repo-size/AABHAYRANJANPANDEY/Data-Structures-and-Algorithms)
-
-
-## 🏆 DSA Badges
-
-![Language](https://img.shields.io/badge/Language-Java-orange)
-![DSA Problems](https://img.shields.io/badge/Problems%20Solved-50-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Java](https://img.shields.io/badge/Language-Java-red?logo=java)
-
----
-
-## 📊 GitHub Stats
-
-![Aabhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AABHAYRANJANPANDEY&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AABHAYRANJANPANDEY&layout=compact&theme=tokyonight)
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/AABHAYRANJANPANDEY/AABHAYRANJANPANDEY/blob/output/github-contribution-grid-snake.svg)
 
 
 
@@ -267,16 +235,6 @@
 
 </p>
 
-## 📜 Certifications
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Certified-blue?style=for-the-badge&logo=googlecloud)
-
-![Google Data Analytics](https://img.shields.io/badge/Google-Data%20Analytics-yellow?style=for-the-badge&logo=google)
-
-![Cloud Facilitator](https://img.shields.io/badge/Google-Cloud%20Facilitator-orange?style=for-the-badge&logo=google)
-
-![Python AI ML](https://img.shields.io/badge/Python-AI%2FML-green?style=for-the-badge&logo=python)
-
 
 ## 🏆 GitHub Achievements
 
@@ -285,12 +243,91 @@
 
 ## 🏆 Achievements
 
-🥇 **9.67 GPA** in First Semester at VIT Bhopal  
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-🚀 Built **multiple web development projects**
+### 🎓 9.5 GPA
+**VIT Bhopal**
 
-💻 Skilled in **Java, Python, C++, React, Node.js**
+Computer Science & Engineering
 
-📊 Completed **Google Data Analytics Certification**
+</td>
 
-🌟 Actively practicing **Data Structures & Algorithms**
+<td align="center" width="33%">
+
+### ☁️ Google Cloud
+**Arcade Champion**
+
+Cloud • AI • Technology
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌐 Google
+**Student Ambassador**
+
+Community • Technology
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 💻 Microsoft
+**Student Ambassador**
+
+Developer • Cloud • Community
+
+</td>
+
+<td align="center">
+
+### 🤖 IBM
+**AI Intern**
+
+Artificial Intelligence • Engineering
+
+</td>
+
+<td align="center">
+
+### 🏅 LeetCode
+**Knight**
+
+300+ Problems Solved
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📚 Class 12
+**94%**
+
+Academic Excellence
+
+</td>
+
+<td align="center">
+
+### 📖 Class 10
+**95%**
+
+Academic Excellence
+
+</td>
+
+<td align="center">
+
+### 🧩 Open Source
+**Contributor**
+
+Building • Contributing • Learning
+
+</td>
+</tr>
+</table>
