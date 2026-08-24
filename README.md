@@ -49,36 +49,6 @@
 
 <!-- ==================== ABOUT ==================== -->
 
-## 🧠 About Me
-
-```json
-{
-  "name": "Aabhay Pandey",
-  "mission": "Build intelligent, secure & scalable systems",
-  "focus": [
-    "AI Engineering",
-    "Software Engineering",
-    "Cybersecurity",
-    "Applied Cryptography",
-    "Open Source"
-  ],
-  "currently_building": "Production-ready AI systems & developer tools",
-  "exploring": [
-    "System Design",
-    "Secure Software",
-    "Machine Learning",
-    "Automation"
-  ],
-  "achievements": [
-    "Google Student Ambassador",
-    "Microsoft Student Ambassador",
-    "AI Intern @ IBM",
-    "LeetCode Knight",
-    "300+ LeetCode Problems Solved"
-  ],
-  "philosophy": "Think deeply. Build cleanly. Ship intelligently.",
-  "coffee_to_code_ratio": "1:1"
-}
 
 ## 🚀 Skills
 
