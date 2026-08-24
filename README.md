@@ -204,7 +204,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AABHAYRANJANPANDEY/AABHAYRANJANPANDEY/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/AABHAYRANJANPANDEY/AABHAYRANJANPANDEY/gh-pages/github-contribution-grid-snake-dark.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
