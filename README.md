@@ -1,8 +1,21 @@
 # Hi 👋 I'm Aabhay Pandey
 
+<!-- ==================== HEADER ==================== -->
+
 <p align="center">
-  🤖 <strong>AI Engineer</strong> &nbsp;•&nbsp;
-  💻 <strong>Software Engineer</strong> &nbsp;•&nbsp;
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=180&section=header&text=Aabhay%20Pandey%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=fadeIn"
+    width="100%"
+  />
+</p>
+
+<h1 align="center">Hi 👋, I'm Aabhay Pandey</h1>
+
+<p align="center">
+  🤖 <strong>AI Engineer</strong>
+  &nbsp;•&nbsp;
+  💻 <strong>Software Engineer</strong>
+  &nbsp;•&nbsp;
   🔐 <strong>Cybersecurity Enthusiast</strong>
 </p>
 
@@ -14,19 +27,59 @@
   🧠 <strong>AI Intern @ IBM</strong>
 </p>
 
+<!-- ==================== TYPING ==================== -->
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+%26+Scalable+Systems;Exploring+AI+%26+Machine+Learning;Engineering+Reliable+Software;Cybersecurity+%26+Applied+Cryptography;Open+Source+Contributor;LeetCode+Knight+%7C+300%2B+Problems+Solved"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+%26+Scalable+Systems;Exploring+AI+%26+Machine+Learning;Engineering+Reliable+Software;Cybersecurity+%26+Applied+Cryptography;Contributing+to+Open+Source;LeetCode+Knight+%7C+300%2B+Problems+Solved"
     alt="Typing SVG"
   />
 </p>
 
+<!-- ==================== ACHIEVEMENTS ==================== -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Engineer-00D4FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/300%2B-Problems%20Solved-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/🤖_AI-Engineer-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍_Open_Source-Contributor-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🏆_LeetCode-Knight-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧩_Problems_Solved-300%2B-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
+
+<br/>
+
+<!-- ==================== ABOUT ==================== -->
+
+## 🧠 About Me
+
+```json
+{
+  "name": "Aabhay Pandey",
+  "mission": "Build intelligent, secure & scalable systems",
+  "focus": [
+    "AI Engineering",
+    "Software Engineering",
+    "Cybersecurity",
+    "Applied Cryptography",
+    "Open Source"
+  ],
+  "currently_building": "Production-ready AI systems & developer tools",
+  "exploring": [
+    "System Design",
+    "Secure Software",
+    "Machine Learning",
+    "Automation"
+  ],
+  "achievements": [
+    "Google Student Ambassador",
+    "Microsoft Student Ambassador",
+    "AI Intern @ IBM",
+    "LeetCode Knight",
+    "300+ LeetCode Problems Solved"
+  ],
+  "philosophy": "Think deeply. Build cleanly. Ship intelligently.",
+  "coffee_to_code_ratio": "1:1"
+}
+
 ## 🚀 Skills
 
 <p align="left">
