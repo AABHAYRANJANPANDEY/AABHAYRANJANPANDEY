@@ -216,31 +216,6 @@
 </p>
 
 
-
-## 🚀 Projects
-
-<p align="center">
-
-<a href="https://github.com/AABHAYRANJANPANDEY/MyPorfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=MyPorfolio&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/AABHAYRANJANPANDEY/ecommerce-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=Landing_Page&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/AABHAYRANJANPANDEY/calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AABHAYRANJANPANDEY&repo=Campus-Course-Records-Manager&theme=tokyonight" />
-</a>
-
-</p>
-
-
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AABHAYRANJANPANDEY&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ## 🏆 Achievements
 
 <table align="center">
