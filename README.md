@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Systems+Builder;Exploring+Applied+Cryptography;Open+Source+Contributor;Turning+Complex+Logic+into+Clean+Code" alt="Typing SVG" />
   </a>
 </p>
-
 ## 🚀 Skills
 
 <p align="left">
