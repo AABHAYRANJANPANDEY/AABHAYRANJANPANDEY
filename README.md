@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=AABHAY%20PANDEY&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=Hi 👋 I'm AABHAY%20PANDEY&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     width="100%"
   />
 </p>
@@ -19,9 +19,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=00D4FF&labelColor=0d1117" />
-  </a>
   <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=flat-square&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/300%2B-Problems%20Solved-00D4FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-161B22?style=flat-square&logo=github" />
@@ -40,7 +37,7 @@
 </p>
 
 <p align="center">
-  <strong>Aabhay Pandey</strong><br><br>
+
   🤖 AI Engineer &nbsp;•&nbsp; 💻 Software Engineer &nbsp;•&nbsp; 🔐 Cybersecurity
 </p>
 
