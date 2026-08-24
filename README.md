@@ -1,51 +1,81 @@
 # Hi 👋 I'm Aabhay Pandey
 
-<!-- ==================== HEADER ==================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HERO                                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=180&section=header&text=Aabhay%20Pandey%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=AABHAY%20PANDEY&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     width="100%"
   />
 </p>
 
 <p align="center">
-  🤖 <strong>AI Engineer</strong>
-  &nbsp;•&nbsp;
-  💻 <strong>Software Engineer</strong>
-  &nbsp;•&nbsp;
-  🔐 <strong>Cybersecurity Enthusiast</strong>
-</p>
-
-<p align="center">
-  🌟 <strong>Google Student Ambassador</strong>
-  &nbsp;|&nbsp;
-  🚀 <strong>Microsoft Student Ambassador</strong>
-  &nbsp;|&nbsp;
-  🧠 <strong>AI Intern @ IBM</strong>
-</p>
-
-<!-- ==================== TYPING ==================== -->
-
-<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+%26+Scalable+Systems;Exploring+AI+%26+Machine+Learning;Engineering+Reliable+Software;Cybersecurity+%26+Applied+Cryptography;Contributing+to+Open+Source;LeetCode+Knight+%7C+300%2B+Problems+Solved"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00D4FF&center=true&vCenter=true&width=850&lines=AI+ENGINEER+%7C+SOFTWARE+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS;CYBERSECURITY+%7C+APPLIED+CRYPTOGRAPHY;OPEN+SOURCE+%7C+SYSTEMS+BUILDER"
     alt="Typing SVG"
   />
 </p>
 
-<!-- ==================== ACHIEVEMENTS ==================== -->
-
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI-Engineer-00D4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌍_Open_Source-Contributor-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🏆_LeetCode-Knight-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/🧩_Problems_Solved-300%2B-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=00D4FF&labelColor=0d1117" />
+  </a>
+  <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/300%2B-Problems%20Solved-00D4FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-161B22?style=flat-square&logo=github" />
 </p>
 
-<br/>
+<br>
 
-<!-- ==================== ABOUT ==================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       IDENTITY                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+
+### `> whoami`
+
+</p>
+
+<p align="center">
+  <strong>Aabhay Pandey</strong><br><br>
+  🤖 AI Engineer &nbsp;•&nbsp; 💻 Software Engineer &nbsp;•&nbsp; 🔐 Cybersecurity
+</p>
+
+<p align="center">
+  🌟 Google Student Ambassador &nbsp;•&nbsp;
+  🚀 Microsoft Student Ambassador &nbsp;•&nbsp;
+  🧠 AI Intern @ IBM
+</p>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       TERMINAL                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  AABHAY@DEV ~ $ ./about                                      │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Mission        → Build intelligent, secure & scalable       │
+│                    systems that solve real problems.         │
+│                                                              │
+│  Currently      → AI Engineering + Software Engineering      │
+│                                                              │
+│  Exploring      → Cybersecurity • Cryptography • System       │
+│                    Design • Automation                        │
+│                                                              │
+│  Open Source    → Building • Contributing • Learning         │
+│                                                              │
+│  Problem Solving→ LeetCode Knight • 300+ problems            │
+│                                                              │
+│  Philosophy     → Think deeply. Build cleanly. Ship fast.   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
 
 ## 🚀 Skills
