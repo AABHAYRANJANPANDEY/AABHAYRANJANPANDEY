@@ -172,15 +172,23 @@
 
 ## 🔥 Consistency
 
+
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AABHAYRANJANPANDEY&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"
-    width="500"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AABHAYRANJANPANDEY&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E"
+    width="520"
+    alt="GitHub Engineering Streak"
   />
 </p>
 
 <p align="center">
-  <i>Small commits. Consistent learning. Compounding progress.</i> 🚀
+  <code>BUILD</code>
+  &nbsp;→&nbsp;
+  <code>LEARN</code>
+  &nbsp;→&nbsp;
+  <code>CONTRIBUTE</code>
+  &nbsp;→&nbsp;
+  <code>REPEAT</code>
 </p>
 
 ## ⚡ Daily Engineering
@@ -202,7 +210,14 @@
   <img
     src="https://raw.githubusercontent.com/AABHAYRANJANPANDEY/AABHAYRANJANPANDEY/output/github-contribution-grid-snake-dark.svg"
     alt="GitHub Contribution Snake"
+    width="100%"
   />
+</p>
+
+<p align="center">
+  <sub>
+    Turning commits into progress. One contribution at a time. ⚡
+  </sub>
 </p>
 
 ## 🔥 GitHub Streak
