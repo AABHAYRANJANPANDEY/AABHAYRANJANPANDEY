@@ -66,7 +66,15 @@
 <h3 align="center">🤖 Generative AI & LLM Engineering</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=openai,huggingface&perline=6" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-6B4EFF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>LLMs</b> • <b>RAG</b> • <b>AI Agents</b> • <b>Prompt Engineering</b> • <b>Embeddings</b> • <b>Vector Search</b>
 </p>
 
 <p align="center">
