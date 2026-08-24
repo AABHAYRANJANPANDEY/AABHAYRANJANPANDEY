@@ -1,11 +1,19 @@
 # Hi 👋 I'm Aabhay Pandey
 
+<h1 align="center">Hi 👋, I'm Aabhay Pandey</h1>
+
 <p align="center">
-  <strong>Google Student Ambassador | Microsoft Student Ambassador | AI Intern @ IBM</strong>
+  <strong>🤖 AI Engineer | 💻 Software Engineer | 🔐 Cybersecurity Enthusiast</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Software+Engineer;Building+Intelligent+%26+Scalable+Systems;AI+%26+Machine+Learning;Cybersecurity+%26+Applied+Cryptography;Open+Source+Contributor;LeetCode+Knight+%7C+300%2B+Problems+Solved" alt="Typing SVG" />
+  🌟 <strong>Google Student Ambassador</strong> &nbsp;|&nbsp;
+  🚀 <strong>Microsoft Student Ambassador</strong> &nbsp;|&nbsp;
+  🧠 <strong>AI Intern @ IBM</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🤖+Building+Intelligent+%26+Scalable+Systems;🧠+AI+%26+Machine+Learning;💻+Software+Engineering;🔐+Cybersecurity+%26+Applied+Cryptography;🌍+Open+Source+Contributor;⚡+LeetCode+Knight+%7C+300%2B+Problems+Solved" alt="Typing SVG" />
 </p>
 
 <p align="center">
