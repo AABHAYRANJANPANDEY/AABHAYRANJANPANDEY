@@ -1,10 +1,11 @@
 # Hi 👋 I'm Aabhay Pandey
+
 <p align="center">
-  <strong>AI Engineer • Software Engineer • Cybersecurity Enthusiast</strong>
+  <strong>Google Student Ambassador | Microsoft Student Ambassador | AI Intern @ IBM</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=750&lines=Building+Intelligent+%26+Scalable+Systems;AI+%26+Machine+Learning;Software+Engineering;Cybersecurity+%26+Applied+Cryptography;Open+Source+Contributor;Google+%26+Microsoft+Student+Ambassador;LeetCode+Knight+%7C+300%2B+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Software+Engineer;Building+Intelligent+%26+Scalable+Systems;AI+%26+Machine+Learning;Cybersecurity+%26+Applied+Cryptography;Open+Source+Contributor;LeetCode+Knight+%7C+300%2B+Problems+Solved" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,6 +15,7 @@
   <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode" />
   <img src="https://img.shields.io/badge/Problems%20Solved-300%2B-blue?style=for-the-badge&logo=leetcode" />
 </p>
+
 ## 🚀 Skills
 
 <p align="left">
