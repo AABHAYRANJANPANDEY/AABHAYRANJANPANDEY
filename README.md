@@ -1,7 +1,9 @@
 # Hi 👋 I'm Aabhay Pandey
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Data+Analyst;Open+Source+Learner;VIT+Bhopal+Student&center=true&width=500&height=50)
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Systems+Builder;Exploring+Applied+Cryptography;Open+Source+Contributor;Turning+Complex+Logic+into+Clean+Code" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🚀 Skills
 
