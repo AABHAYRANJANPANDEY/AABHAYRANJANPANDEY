@@ -9,8 +9,6 @@
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aabhay Pandey</h1>
-
 <p align="center">
   🤖 <strong>AI Engineer</strong>
   &nbsp;•&nbsp;
