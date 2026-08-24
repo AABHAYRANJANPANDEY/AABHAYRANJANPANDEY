@@ -47,8 +47,6 @@
 
 ## 🏹 Arsenal
 
-<h2 align="center">⚡ Engineering Arsenal</h2>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- LANGUAGES -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -172,12 +170,11 @@
 
 ## 🔥 Consistency
 
-
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AABHAYRANJANPANDEY&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=AABHAYRANJANPANDEY&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E"
     width="520"
-    alt="GitHub Engineering Streak"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
@@ -190,7 +187,6 @@
   &nbsp;→&nbsp;
   <code>REPEAT</code>
 </p>
-
 ## ⚡ Daily Engineering
 
 <p align="center">
