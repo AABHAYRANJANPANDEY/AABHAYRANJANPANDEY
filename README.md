@@ -1,27 +1,32 @@
 # Hi 👋 I'm Aabhay Pandey
 
 <p align="center">
-  <strong>🤖 AI Engineer | 💻 Software Engineer | 🔐 Cybersecurity Enthusiast</strong>
+  🤖 <strong>AI Engineer</strong> &nbsp;•&nbsp;
+  💻 <strong>Software Engineer</strong> &nbsp;•&nbsp;
+  🔐 <strong>Cybersecurity Enthusiast</strong>
 </p>
 
 <p align="center">
-  🌟 <strong>Google Student Ambassador</strong> &nbsp;|&nbsp;
-  🚀 <strong>Microsoft Student Ambassador</strong> &nbsp;|&nbsp;
+  🌟 <strong>Google Student Ambassador</strong>
+  &nbsp;|&nbsp;
+  🚀 <strong>Microsoft Student Ambassador</strong>
+  &nbsp;|&nbsp;
   🧠 <strong>AI Intern @ IBM</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=🤖+Building+Intelligent+%26+Scalable+Systems;🧠+AI+%26+Machine+Learning;💻+Software+Engineering;🔐+Cybersecurity+%26+Applied+Cryptography;🌍+Open+Source+Contributor;⚡+LeetCode+Knight+%7C+300%2B+Problems+Solved" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+%26+Scalable+Systems;Exploring+AI+%26+Machine+Learning;Engineering+Reliable+Software;Cybersecurity+%26+Applied+Cryptography;Open+Source+Contributor;LeetCode+Knight+%7C+300%2B+Problems+Solved"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Problems%20Solved-300%2B-blue?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/AI-Engineer-00D4FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-Knight-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/300%2B-Problems%20Solved-blue?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
-
 ## 🚀 Skills
 
 <p align="left">
