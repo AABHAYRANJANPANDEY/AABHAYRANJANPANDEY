@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=Hi 👋 I'm AABHAY%20PANDEY&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=200&section=header&text=AABHAY%20PANDEY&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     width="100%"
   />
 </p>
