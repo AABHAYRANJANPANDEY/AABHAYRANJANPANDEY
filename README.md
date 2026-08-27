@@ -157,12 +157,24 @@
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=AABHAYRANJANPANDEY&bg_color=00000000&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true"
     width="95%"
-    alt="Aabhay Pandey's GitHub Activity Graph"
+    alt="GitHub Activity Graph"
   />
 </p>
 
 <p align="center">
-  <strong>CODE</strong> → <strong>LEARN</strong> → <strong>BUILD</strong> → <strong>CONTRIBUTE</strong> → <strong>REPEAT</strong>
+  <code>CODE</code>
+  <span> → </span>
+  <code>LEARN</code>
+  <span> → </span>
+  <code>BUILD</code>
+  <span> → </span>
+  <code>CONTRIBUTE</code>
+  <span> → </span>
+  <code>REPEAT</code>
+</p>
+
+<p align="center">
+  <i>Building intelligent systems, one commit at a time.</i>
 </p>
 
 ## 🐍 Contribution Snake
