@@ -152,12 +152,23 @@
 </p>
 
 ## ⚡ Daily Engineering
+
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AABHAYRANJANPANDEY&theme=github-dark&hide_border=true"
-    width="95%"
-    alt="GitHub Streak Stats"
+    src="https://streak-stats.demolab.com?user=AABHAYRANJANPANDEY&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E"
+    width="520"
+    alt="GitHub Contribution Streak"
   />
+</p>
+
+<p align="center">
+  <code>BUILD</code>
+  &nbsp;→&nbsp;
+  <code>LEARN</code>
+  &nbsp;→&nbsp;
+  <code>CONTRIBUTE</code>
+  &nbsp;→&nbsp;
+  <code>REPEAT</code>
 </p>
 
 ## 🐍 Contribution Snake
