@@ -152,29 +152,12 @@
 </p>
 
 ## ⚡ Daily Engineering
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AABHAYRANJANPANDEY&theme=github-compact&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AABHAYRANJANPANDEY&theme=github-dark&hide_border=true"
     width="95%"
-    alt="GitHub Activity Graph"
+    alt="GitHub Streak Stats"
   />
-</p>
-
-<p align="center">
-  <code>CODE</code>
-  <span> → </span>
-  <code>LEARN</code>
-  <span> → </span>
-  <code>BUILD</code>
-  <span> → </span>
-  <code>CONTRIBUTE</code>
-  <span> → </span>
-  <code>REPEAT</code>
-</p>
-
-<p align="center">
-  <i>Building intelligent systems, one commit at a time.</i>
 </p>
 
 ## 🐍 Contribution Snake
