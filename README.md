@@ -155,9 +155,9 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=AABHAYRANJANPANDEY&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AABHAYRANJANPANDEY&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E"
     width="520"
-    alt="GitHub Contribution Streak"
+    alt="GitHub Engineering Streak"
   />
 </p>
 
