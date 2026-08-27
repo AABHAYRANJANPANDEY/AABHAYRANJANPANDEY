@@ -155,20 +155,13 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AABHAYRANJANPANDEY&theme=transparent&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E"
-    width="520"
-    alt="GitHub Engineering Streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true"
+    width="95%"
   />
 </p>
 
 <p align="center">
-  <code>BUILD</code>
-  &nbsp;→&nbsp;
-  <code>LEARN</code>
-  &nbsp;→&nbsp;
-  <code>CONTRIBUTE</code>
-  &nbsp;→&nbsp;
-  <code>REPEAT</code>
+  <code>CODE</code> → <code>LEARN</code> → <code>BUILD</code> → <code>CONTRIBUTE</code> → <code>REPEAT</code>
 </p>
 
 ## 🐍 Contribution Snake
