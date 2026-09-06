@@ -160,9 +160,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AABHAYRANJANPANDEY&bg_color=00000000&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph-mu-ashy.vercel.app/graph?username=AABHAYRANJANPANDEY&bg_color=00000000&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true"
     width="95%"
-    alt="Aabhay's GitHub Activity Graph"
+    alt="GitHub Activity Graph"
   />
 </p>
 
